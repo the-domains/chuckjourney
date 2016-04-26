@@ -1,0 +1,28 @@
+name: chuckjourney
+favicon: null
+layout_spectrum: 0.7880845943000168
+typography_spectrum: 0.9605094287544489
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9415639699436724
+  lightness: 0.5700908461585641
+  saturation: 0.8666714108549058
+  rhythmicContrast: 0.1935163619928062
+purpose: []
